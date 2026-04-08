@@ -1,12 +1,13 @@
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NxemNkdGJuNms3aWh2ZHE2MGw4Z2lmc3ZxcWVtcnlzcHBzYWRlMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SLNzbCYWYi3dTC2t1Y/giphy.gif" width="30"> Hola Chicos, soy Junior 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcyODVjYm1xZjNlM2JtMnRycjFub2JuZXZzazB6amk5azk2eTRmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8DA3UTajPmYHj0iBgt/giphy.gif" width="40"> Hola Chicos, soy Junior 
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Bienvenido+Al+GitHub+De+Juniior!)
 
 </div>
-
-🚀
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NxemNkdGJuNms3aWh2ZHE2MGw4Z2lmc3ZxcWVtcnlzcHBzYWRlMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SLNzbCYWYi3dTC2t1Y/giphy.gif" width="100">
+</p>
 
 - Estudiante de Creación Digital con interés en proyectos visuales, diseño y tecnología.
 - Apasionado por el modelado 3D, la creación de conceptos y el desarrollo de ideas innovadoras.
@@ -25,9 +26,8 @@
     <img src="https://skillicons.dev/icons?i=blender,ai,ps,pr"/>
 
     
-## Github Estadísticas
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Estadísticas
-</h2>
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Github Estadísticas
+ 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
