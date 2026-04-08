@@ -15,7 +15,7 @@
 - Interesado en el emprendimiento y en crear soluciones diferentes que mezclen arte y tecnología.
 - Siempre dispuesto a aprender nuevas herramientas, mejorar mis habilidades y asumir nuevos retos.
 
-- # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
+  # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 ## Lenguajes
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,css,html,vscode,figma,github" />
