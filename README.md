@@ -34,3 +34,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffdevx&theme=dracula&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtlNG1kM2hvOG45YnNuY3h2dDUxZjJvN3hzczRpazIyc3VwZ252diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="45"> Contratame
+
+<p align="center">
+  <a href="https://www.instagram.com/jsmmdz?igsh=NzdsZWsxOHU4MjRp" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.behance.net/juniormejiam" target="blank">
+    <img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=Behance&logoColor=white" alt="Behance" />
+  </a>
+</p>
